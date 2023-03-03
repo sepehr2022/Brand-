@@ -20,7 +20,7 @@ body{
 }
 #one{
     animation: flicker-n_2 5s infinite forwards;
-    right: 6vw;
+ 
 }
 #three{
     -webkit-animation: flicker-0 5s infinite linear;
